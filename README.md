@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ah-singh&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ah-singh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@akashsi72756216" target="blank"><img src="https://img.shields.io/twitter/follow/@akashsi72756216?logo=twitter&style=for-the-badge" alt="@akashsi72756216" /></a> </p>
-
 - 🌱 I’m currently learning **Strapi**
 
 - 👯 I’m looking to collaborate on **Open Source**
