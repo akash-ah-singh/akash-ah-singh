@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Strapi**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 💬 Ask me about **Java ,Python ,C ,Html/Css ,Mysql**
 
