@@ -30,4 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ah-singh&" alt="akash-ah-singh" /></p>
 
-Git Customization
