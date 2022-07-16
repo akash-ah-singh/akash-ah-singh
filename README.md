@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Java ,Python ,C ,Html/Css ,Mysql**
+- 💬 Ask me about **Java ,Python ,C ,Html/Css ,Mysql ,DSA**
 
 - 📫 How to reach me **akash.ah.singh@gmail.com**
 
