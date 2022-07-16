@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-ah-singh&show_icons=true&locale=en" alt="akash-ah-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-ah-singh&" alt="akash-ah-singh" /></p>
+
+Git Customization
