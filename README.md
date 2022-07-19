@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ah-singh&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ah-singh" /> </p>
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **Sanity.io**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
